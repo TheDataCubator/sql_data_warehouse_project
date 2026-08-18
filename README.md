@@ -39,4 +39,4 @@ This project is licensed under the [MIT LICENSE](LICENSE). You are free to use, 
 
 ## About Me
 
-Hi there! I'm **Mustafa Muntak**, an insurance operations professional passionate about expanding my skills into data analytics and transforming data into meaningful insights.
+Hi there! I'm **Mustafa**, an insurance operations professional passionate about expanding my skills into data analytics and transforming data into meaningful insights.
