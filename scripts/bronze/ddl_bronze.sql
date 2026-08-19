@@ -10,6 +10,7 @@ Run this script to redefine the DDL structure of 'bronze' Tables
 
 --CREATE CRM TABLES
 --Table 1: create bronze.crm_cust_info table
+--'U' in this command represents a User Table
 IF OBJECT_ID ('bronze.crm_cust_info','U') IS NOT NULL
 	DROP TABLE bronze.crm_cust_info;
 GO
