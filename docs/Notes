@@ -4,7 +4,7 @@ Common type codes:
 U	  User table
 V	  View
 P	  Stored procedure
-FN	Scalar function
-TF	Table-valued function
-PK	Primary key constraint
-F	  Foreign key constraint
+FN  Scalar function
+TF  Table-valued function
+PK  Primary key constraint
+F   Foreign key constraint
