@@ -1,1 +1,10 @@
+This is a place where I put additional information that I found while completing the project.
 
+Common type codes:
+U	  User table
+V	  View
+P	  Stored procedure
+FN	Scalar function
+TF	Table-valued function
+PK	Primary key constraint
+F	  Foreign key constraint
