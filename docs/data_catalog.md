@@ -46,7 +46,7 @@ The Gold Layer is the business-level data representation, structured to support 
    **Purpose**: Stores transactional sales data for analytical purposes.<br>   **Columns**:
   |Column Name      |Data Type      |Description                                                                                |
   |-----------------|---------------|-------------------------------------------------------------------------------------------|
-  |order_number     |NVARCHAR(50)   |A unique alphanumeric identifier for each sales order (e.g.,'SO54496' |    
+  |order_number     |NVARCHAR(50)   |A unique alphanumeric identifier for each sales order (e.g.,'SO54496') |    
   |product_key      |INT            |Surrogate key linking the order to the product dimension table. |
   |customer_key     |INT            |Surrogate key linking the order to the customer dimension table. |
   |order_date       |DATE           |The date when the order was placed.|
