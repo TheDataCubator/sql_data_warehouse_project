@@ -5,7 +5,8 @@ This project demonstrates a comprehensive  data warehousing and analytics soluti
 
 ---
 ## Data Architecture
-The data architecture for this project follows Medallion Architecture Bronze, Silver and Gold Layers:
+
+The data architecture for this project follows Medallion Architecture Bronze, Silver and Gold layers:
 ---
 ## Project Requirements
 
