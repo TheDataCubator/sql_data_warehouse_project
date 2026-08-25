@@ -29,7 +29,7 @@ This repository is an excellent resource for professionals and students looking 
 ---
 ## Important Links & Tools:
 
-- ![Datasets](https://github.com/TheDataCubator/sql_data_warehouse_project/tree/bd1e64fad09770549473975ed3b65216eb504c80/datasets): Access to the project dataset(csv files).
+- **[Datasets](https://github.com/TheDataCubator/sql_data_warehouse_project/tree/bd1e64fad09770549473975ed3b65216eb504c80/datasets)**: Access to the project dataset(csv files).
 - ![](): Lightweight server for hosting your SQL database.
 - ![](): GUI for managing and interacting with databases.
 - ![](): Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
