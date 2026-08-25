@@ -1,7 +1,11 @@
 ## Analyse Source Systems
 
-This is the important steps to understand the sources. In some cases we need to interview the system experts to ask them about the source.
-Asking the right question will help to design the correct scripts in order to extract the data and to avoid a lot of mistakes and challenges.
+Analyse source systems is the important steps to **understand the sources**. In some cases system experts will be interviewed to gain information about the source.
+Asking the right question will help 
+- to design the correct scripts in order to extract the data
+- to avoid a lot of mistakes and challenges.
+
+Below are the examples of questions before starting data connections.
 
 ---
 ### Business Context & Ownership
