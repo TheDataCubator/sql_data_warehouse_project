@@ -1,9 +1,6 @@
-/*
-=======================================================
 This is the important steps to understand the sources. In some cases we need to interview the system experts to ask them about the source.
 Asking the right question will help to design the correct scripts in order to extract the data and to avoid a lot of mistakes and challenges.
-=======================================================
-*/
+
 
 ### Business Context & Ownership
 - **Who owns the data?**<br>
