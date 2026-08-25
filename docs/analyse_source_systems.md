@@ -13,7 +13,7 @@ Below are the example of questions before starting data connections.
 (IT Dept,...)
 
 - **What Business Process it supports?**<br>
-(Customer transaction, Supply Chain, Logistics, Finance)
+(customer transactions, supply chains, logistics, finance reporting)
 
 - **System & Data documentation**
 
@@ -27,21 +27,22 @@ Below are the example of questions before starting data connections.
 (SQL Server, Oracle, AWS, Azure,...)
 
 - **What are the integration capabilities?**<br>
-(API Kafka, File Extract, Direct DB,....)
+(API, Kafka, File Extract, direct DB connection,....)
 
 ---
 ### Extract & Load
 - **Incremental vs. Full Loads?**
 
-- **Data Scope & Historical Needs**
+- **Data Scope & Historical Needs**<br>
+(all data,10 years,...)
 
 - **What is the expected size of the extracts?**<br>
-(size of the data)
+(MB,GB,TB,...)
 
-- **Are there any data volume limitations?**
+- **Are there any data volume limitations?**<br>
+(old source systems might struggle with performance)
 
 - **How to avoid impacting the source system's performance?**<br>
-(not bringing the performance of the database down)
 
 - **Authentication and authorization**<br>
 (tokens, SSH keys, VPN, IP whitelisting,...)
