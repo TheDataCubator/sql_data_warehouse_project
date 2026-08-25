@@ -27,6 +27,19 @@ This repository is an excellent resource for professionals and students looking 
 - Data Analytics
 
 ---
+## Important Links & Tools:
+
+- ![](): Access to the project dataset(csv files).
+- ![](): Lightweight server for hosting your SQL database.
+- ![](): GUI for managing and interacting with databases.
+- ![](): Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+- ![](): Design data architecture, models, flows, and diagrams.
+- ![](): Get the Project Tempalte from Notion
+- ![](): Access to All Project Phases and Tasks.
+
+
+---
+
 ## Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
