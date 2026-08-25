@@ -6,36 +6,36 @@ Asking the right question will help to design the correct scripts in order to ex
 */
 
 ### Business Context & Ownership
-**Who owns the data?**<br>
+- **Who owns the data?**<br>
 (IT Dept,...)
 
-**What Business Process it supports?**<br>
+- **What Business Process it supports?**<br>
 (Customer transaction, Supply Chain, Logistics, Finance)
 
-**System & Data documentation**
+- **System & Data documentation**
 
-**Data Model & Data Catalog**<br>
+- **Data Model & Data Catalog**<br>
 (Description of Columns)
 
 ### Architecure & Technology Stack
-**How is data stored?**<br>
+- **How is data stored?**<br>
 (SQL Server, Oracle, AWS, Azure,...)
 
-**What are the integration capabilities?**<br>
+- **What are the integration capabilities?**<br>
 (API Kafka, File Extract, Direct DB,....)
 
 ### Extract & Load
-**incremental vs. Full Loads?**
+- **incremental vs. Full Loads?**
 
-**Data Scope & Historical Needs**
+- **Data Scope & Historical Needs**
 
-**What is the expected size of the extracts?**<br>
+- **What is the expected size of the extracts?**<br>
 (size of the data)
 
-**Are there any data volume limitations?**
+- **Are there any data volume limitations?**
 
-**How to avoid impacting the source system's performance?**<br>
+- **How to avoid impacting the source system's performance?**<br>
 (not bringing the performance of the database down)
 
-**Authentication and authorization**<br>
+- **Authentication and authorization**<br>
 (tokens, SSH keys, VPN, IP whitelisting,...)
