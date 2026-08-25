@@ -3,7 +3,7 @@
 This is the important steps to understand the sources. In some cases we need to interview the system experts to ask them about the source.
 Asking the right question will help to design the correct scripts in order to extract the data and to avoid a lot of mistakes and challenges.
 
-
+---
 ### Business Context & Ownership
 - **Who owns the data?**<br>
 (IT Dept,...)
@@ -16,6 +16,8 @@ Asking the right question will help to design the correct scripts in order to ex
 - **Data Model & Data Catalog**<br>
 (Description of Columns)
 
+---
+
 ### Architecure & Technology Stack
 - **How is data stored?**<br>
 (SQL Server, Oracle, AWS, Azure,...)
@@ -23,6 +25,7 @@ Asking the right question will help to design the correct scripts in order to ex
 - **What are the integration capabilities?**<br>
 (API Kafka, File Extract, Direct DB,....)
 
+---
 ### Extract & Load
 - **Incremental vs. Full Loads?**
 
