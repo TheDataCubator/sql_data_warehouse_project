@@ -1,8 +1,8 @@
 ### Business Context & Ownership
-**Who owns the data?** <rp>
+**Who owns the data?**
 (IT Dept,...)
 
-**What Business Process it supports?** <rp>
+**What Business Process it supports?**
 (Customer transaction, Supply Chain, Logistics, Finance)
 
 ### System & Data documentation
