@@ -7,28 +7,28 @@
 
 ### System & Data documentation
 
-Data Model & Data Catalog
+**Data Model & Data Catalog**
 (Description of Columns)
 
-Architecure & Technology Stack
-How is data stored?
+### Architecure & Technology Stack
+**How is data stored?**
 (SQL Server, Oracle, AWS, Azure,...)
 
-What are the integration capabilities?
+**What are the integration capabilities?**
 (API Kafka,File Extract, Direct DB)
 
 Extract & Load
 incremental vs. Full Loads?
 
-Data Scope & Historical Needs
+### Data Scope & Historical Needs
 
-What is the expected size of the extracts?
+**What is the expected size of the extracts?**
 (size of the data)
 
-Are there any data volume limitations?
+**Are there any data volume limitations?**
 
-How to avoid impacting the source system's performance?
+**How to avoid impacting the source system's performance?**
 (not bringing the performance of the database down)
 
-Authentication and authorization
+**Authentication and authorization**
 (tokens, SSH keys, VPN, IP whitelisting,...)
