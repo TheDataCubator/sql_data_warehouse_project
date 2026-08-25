@@ -75,6 +75,7 @@ This project is licensed under the [MIT LICENSE](LICENSE). You are free to use, 
 
 ## About Me
 
-Hi there! I'm **Mustafa**, an insurance operations professional passionate about expanding my skills into data analytics and transforming data into meaningful insights.
+Thanks for visiting! I'm **Mustafa**, an insurance operations professional on a mission to master data analytics and turn raw data into real insights.
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafa-muntak)
