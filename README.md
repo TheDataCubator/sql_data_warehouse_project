@@ -82,7 +82,7 @@ data-warehouse-project/
 │   ├── Data Flow Diagram.png           # data flow diagram
 │   ├── Data Mart.png                   # data models (star schema)
 │   ├── naming_conventions.md           # Consistent naming guidelines for tables, columns, and files
-│   ├── data_layers.pdf                 # A one-slide-deck reference guide explaining the Bronze/Silver/Gold medallion data architecture — covering each layer's purpose,   │                                         workflow, and a source-system interview checklist for onboarding new data sources.
+│   ├── data_layers.pdf                 # A one-slide-deck reference guide explaining the Bronze/Silver/Gold medallion data architecture — covering each layer's purpose, workflow, and a source-system interview checklist for onboarding new data sources.
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
 │   ├── bronze/                         # Scripts for extracting and loading raw data
