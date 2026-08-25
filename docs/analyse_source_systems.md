@@ -1,11 +1,11 @@
-## Business Context & Ownership
+### Business Context & Ownership
 **Who owns the data?**
 (IT Dept,...)
 
 **What Business Process it supports?**
 (Customer transaction, Supply Chain, Logistics, Finance)
 
-## System & Data documentation
+### System & Data documentation
 
 Data Model & Data Catalog
 (Description of Columns)
