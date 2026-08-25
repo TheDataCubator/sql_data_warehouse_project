@@ -1,5 +1,5 @@
 ### Business Context & Ownership
-**Who owns the data?**<rp>
+**Who owns the data?**<br>
 (IT Dept,...)
 
 **What Business Process it supports?**
