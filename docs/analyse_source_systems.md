@@ -5,7 +5,7 @@ Asking the right question will help
 - to design the correct scripts in order to extract the data
 - to avoid a lot of mistakes and challenges.
 
-Below are the examples of questions before starting data connections.
+Below are the example of questions before starting data connections.
 
 ---
 ### Business Context & Ownership
