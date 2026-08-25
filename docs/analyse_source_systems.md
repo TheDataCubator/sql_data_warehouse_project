@@ -1,3 +1,10 @@
+/*
+=======================================================
+This is the important steps to understand the sources. In some cases we need to interview the system experts to ask them about the source.
+Asking the right question will help to design the correct scripts in order to extract the data and to avoid a lot of mistakes and challenges.
+=======================================================
+*/
+
 ### Business Context & Ownership
 **Who owns the data?**<br>
 (IT Dept,...)
@@ -5,7 +12,7 @@
 **What Business Process it supports?**<br>
 (Customer transaction, Supply Chain, Logistics, Finance)
 
-### System & Data documentation
+**System & Data documentation**
 
 **Data Model & Data Catalog**<br>
 (Description of Columns)
@@ -15,12 +22,12 @@
 (SQL Server, Oracle, AWS, Azure,...)
 
 **What are the integration capabilities?**<br>
-(API Kafka,File Extract, Direct DB)
+(API Kafka, File Extract, Direct DB,....)
 
-**Extract & Load**<br>
-incremental vs. Full Loads?
+### Extract & Load
+**incremental vs. Full Loads?**
 
-### Data Scope & Historical Needs
+**Data Scope & Historical Needs**
 
 **What is the expected size of the extracts?**<br>
 (size of the data)
