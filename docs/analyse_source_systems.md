@@ -17,7 +17,7 @@
 **What are the integration capabilities?**<br>
 (API Kafka,File Extract, Direct DB)
 
-Extract & Load
+**Extract & Load**<br>
 incremental vs. Full Loads?
 
 ### Data Scope & Historical Needs
