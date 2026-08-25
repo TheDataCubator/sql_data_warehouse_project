@@ -22,7 +22,7 @@ Asking the right question will help to design the correct scripts in order to ex
 (API Kafka, File Extract, Direct DB,....)
 
 ### Extract & Load
-- **incremental vs. Full Loads?**
+- **Incremental vs. Full Loads?**
 
 - **Data Scope & Historical Needs**
 
