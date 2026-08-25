@@ -75,12 +75,14 @@ data-warehouse-project/
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
 ├── docs/                               # Project documentation and architecture details
-│   ├── etl.drawio                      # Draw.io file shows all different techniquies and methods of ETL
-│   ├── data_architecture.drawio        # Draw.io file shows the project's architecture
+│   ├── ETL Diagram.png                 # shows all different techniques and methods of ETL
+│   ├── High Level Architecture.png     # shows the project's architecture
+│   ├── Integration Model.png           # shows how data are connected
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
-│   ├── data_flow.drawio                # Draw.io file for the data flow diagram
-│   ├── data_models.drawio              # Draw.io file for data models (star schema)
-│   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
+│   ├── Data Flow Diagram.png           # data flow diagram
+│   ├── Data Mart.png                   # data models (star schema)
+│   ├── naming_conventions.md           # Consistent naming guidelines for tables, columns, and files
+│   ├── data_layers.pdf                 # A one-slide-deck reference guide explaining the Bronze/Silver/Gold medallion data architecture — covering each layer's purpose,   │                                         workflow, and a source-system interview checklist for onboarding new data sources.
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
 │   ├── bronze/                         # Scripts for extracting and loading raw data
