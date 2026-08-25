@@ -76,11 +76,11 @@ data-warehouse-project/
 │
 ├── docs/                               # Project documentation and architecture details
 │   ├── ETL Diagram.png                 # shows all different techniques and methods of ETL
-│   ├── High Level Architecture.png     # shows the project's architecture
-│   ├── Integration Model.png           # shows how data are connected
+│   ├── data_architecture.png           # shows the project's architecture
+│   ├── integration_model.png           # shows how data are connected
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
-│   ├── Data Flow Diagram.png           # data flow diagram
-│   ├── Data Mart.png                   # data models (star schema)
+│   ├── data_flow_diagram.png           # data flow diagram
+│   ├── data_mart.png                   # data models (star schema)
 │   ├── naming_conventions.md           # Consistent naming guidelines for tables, columns, and files
 │   ├── data_layers.pdf                 # A one-slide-deck reference guide explaining the Bronze/Silver/Gold medallion data architecture — covering each layer's purpose, workflow, and a source-system interview checklist for onboarding new data sources.
 │
