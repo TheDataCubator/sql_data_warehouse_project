@@ -8,7 +8,7 @@ Asking the right question will help
 Below are the example of questions before starting data connections.
 
 ---
-### Business Context & Ownership
+### :bulb:Business Context & Ownership
 ❔ **Who owns the data?**<br>
 (IT Dept,...)
 
