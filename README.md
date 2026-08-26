@@ -30,7 +30,7 @@ This repository is an excellent resource for professionals and students looking 
 - Data Analytics
 
 ---
-## Important Links & Tools:
+## 🔗Important Links & Tools:
 
 - **[Datasets](https://github.com/TheDataCubator/sql_data_warehouse_project/tree/bd1e64fad09770549473975ed3b65216eb504c80/datasets)**: Access to the project dataset(csv files).
 - **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)**: Lightweight server for hosting your SQL database.
@@ -99,7 +99,7 @@ data-warehouse-project/
 
 ---
 
-## 🪪License
+## License
 
 This project is licensed under the [MIT LICENSE](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
