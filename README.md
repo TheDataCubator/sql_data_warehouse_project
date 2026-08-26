@@ -45,7 +45,7 @@ This repository is an excellent resource for professionals and students looking 
 
 ### Building the Data Warehouse (Data Engineering)
 
-### Objective
+### 🎯Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 #### Specifications
