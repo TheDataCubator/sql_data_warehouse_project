@@ -22,7 +22,7 @@ Below are the example of questions before starting data connections.
 
 ---
 
-### Architecure & Technology Stack
+### 📐Architecure & Technology Stack
 ❔ **How is data stored?**<br>
 (SQL Server, Oracle, AWS, Azure,...)
 
