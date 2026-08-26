@@ -38,6 +38,7 @@ This repository is an excellent resource for professionals and students looking 
 - **[Git Repository](https://github.com/)**: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - **[DrawIO](https://www.drawio.com/)**: Design data architecture, models, flows, and diagrams.
 - **[Notion](https://www.notion.com/templates/sql-data-warehouse-project)**: Get the Project Tempalte from Notion
+- **[Emojipedia](https://emojipedia.org/en)**: emoji and icon collections
 
 ---
 
