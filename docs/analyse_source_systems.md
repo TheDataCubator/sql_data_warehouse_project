@@ -30,7 +30,7 @@ Below are the example of questions before starting data connections.
 (API, Kafka, File Extract, direct DB connection,....)
 
 ---
-### Extract & Load
+### :wrench:Extract & Load
 ❔ **Incremental vs. Full Loads?**
 
 ❔ **Data Scope & Historical Needs**<br>
