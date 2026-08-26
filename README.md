@@ -75,7 +75,7 @@ data-warehouse-project/
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
 ├── docs/                               # Project documentation and architecture details
-│   ├── analyse_source_systems.md       # Critical questions before performing data connections
+│   ├── analyse_source_systems.md       # Acquiring relevant information before performing data connections
 │   ├── ETL Diagram.png                 # shows all different techniques and methods of ETL
 │   ├── data_architecture.png           # shows the project's architecture
 │   ├── integration_model.png           # shows how data are connected
