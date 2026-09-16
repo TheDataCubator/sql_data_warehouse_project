@@ -101,7 +101,7 @@ data-warehouse-project/
 ---
 ## Acknowledgements
 
-This project was built following a Tableau tutorial by [Data With Baraa](https://www.youtube.com/@DataWithBaraa), with additional documentation and customization added independently.
+This project was built following a SQL Data Warehouse from Scratch tutorial by [Data With Baraa](https://www.youtube.com/@DataWithBaraa), with additional documentation and customization added independently.
 
 ---
 
