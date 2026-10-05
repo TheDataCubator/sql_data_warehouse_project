@@ -46,6 +46,17 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ---
+## 🚀 How to Run This Project
+
+1. **Set up SQL Server**: Install SQL Server Express and SSMS (links in Important Links & Tools below).
+2. **Create the database**: Run the setup script to create the `DataWarehouse` database and bronze/silver/gold schemas.
+3. **Load the Bronze layer**: Execute the scripts in `scripts/bronze/` to ingest the raw CSV data (ERP and CRM) as-is.
+4. **Transform to Silver**: Execute the scripts in `scripts/silver/` to clean, standardize, and normalize the bronze data.
+5. **Build the Gold layer**: Execute the scripts in `scripts/gold/` to create the star schema views ready for analytics.
+6. **Run quality checks**: Execute the scripts in `tests/` to validate data quality across each layer.
+7. **Query the gold layer**: Use the views in Gold to run your own analytics, or try the example queries below.
+
+---
 
 ### 📈BI: Analytics & Reporting (Data Analytics)
 
