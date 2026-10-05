@@ -21,7 +21,7 @@ This project involves:
 3. **Data Modelling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics and Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
-This repository is an excellent resource for professionals and students looking to showcase expertise in:
+Through this project, I built hands-on experience in:
 - SQL Development
 - Data Architecture
 - Data Engineering
@@ -60,7 +60,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ---
 ### Repository Structure
 ```
-data-warehouse-project/
+sql_data_warehouse_project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
@@ -96,7 +96,6 @@ data-warehouse-project/
 - **[Git Repository](https://github.com/)**: Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - **[DrawIO](https://www.drawio.com/)**: Design data architecture, models, flows, and diagrams.
 - **[Notion](https://www.notion.com/templates/sql-data-warehouse-project)**: Get the Project Templates from Notion
-- **[Emojipedia](https://emojipedia.org/en)**: emoji and icon collections
 
 ---
 ## Acknowledgements
